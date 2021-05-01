@@ -1,1 +1,1 @@
-# DataScienceandMachineLearningUsingPython
+# DataScienceandMachineLearning
